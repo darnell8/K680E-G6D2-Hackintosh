@@ -18,6 +18,13 @@
 - 亮度调节无法使用FN快捷键
 - USB是否定制？
 
+### 已修复
+- 主板时间问题
+    - 系统板维护的时间称为RTC（实时时钟）。这是由主板上的小电池维护的时钟。Windows预计此时间表示当地时间，而OS X预计此时间表示UTC。
+    - 出于所有实际目的，GMT和UTC是相同的，当地时间是相对于GMT/UTC的时间。RealTimeIsUniversal只是让Windows将BIOS/RTC时间视为UTC，就像OS X一样。
+    - 尽管许多技术人员认为，默认情况下Windows期望BIOS时间为本地时间是愚蠢的，但为了向后兼容和99.9%的人不双启动，它被保留，并会对BIOS显示UTC与Windows显示本地时间感到困惑。
+    - https://www.tonymacx86.com/threads/fix-incorrect-time-in-windows-osx-dual-boot.133719/
+
 ### 截图
 - eul监控
 
