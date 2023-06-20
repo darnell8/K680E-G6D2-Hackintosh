@@ -67,3 +67,19 @@
 - 音量
 
 ![音量](./ScreenShot/%E6%88%AA%E5%B1%8F2023-06-17%20%E4%B8%8B%E5%8D%8811.21.32.png?raw=true)
+
+- 额外的截图
+
+![TRIM支持](./ScreenShot/%E6%88%AA%E5%B1%8F2023-06-19%2022.15.09.png?raw=true)
+
+![图形卡设备](./ScreenShot/%E6%88%AA%E5%B1%8F2023-06-19%2022.21.04.png?raw=true)
+
+![摄像头设备](./ScreenShot/%E6%88%AA%E5%B1%8F2023-06-19%2022.22.07.png?raw=true)
+
+![电池设备](./ScreenShot/%E6%88%AA%E5%B1%8F2023-06-19%2022.35.26.png?raw=true)
+
+![蓝牙设备](./ScreenShot/%E6%88%AA%E5%B1%8F2023-06-19%2022.37.15.png?raw=true)
+
+![WiFi设备](./ScreenShot/%E6%88%AA%E5%B1%8F2023-06-19%2022.38.45.png?raw=true)
+
+![CPU睿频](./ScreenShot/%E6%88%AA%E5%B1%8F2023-06-19%2022.46.38.png?raw=true)
